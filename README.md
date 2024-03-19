@@ -25,3 +25,7 @@ Nota:
 Para la página WEB los casos diseñados con gherkin emplee almenos 5 escenarios outline como los que se ven en el link a continuación.
 
 [https://cucumber.io/docs/gherkin/reference/](https://cucumber.io/docs/gherkin/reference/)
+
+
+
+https://drive.google.com/drive/folders/14Ch5PFeh_CAjsZ-iISOXZwLww2j18hMs?usp=drive_link
